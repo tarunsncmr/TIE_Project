@@ -1,4 +1,4 @@
-# Cake-My-Day
+# Cake-Day
 Bakery Shop Management System
 
 
